@@ -34,7 +34,7 @@ const licenseUrl = `https://example.com/lic.php?id=${channelId}`;
 
 - JOIN OUR TELEGRAM CHANNEL
 
-- https://t.me/m3u_lovers
+- https://t.me/sharmamod01
 
  # <h3>♻️ CREDITS :</h3>
 - [Yuvraj](https://t.me/yuvraj824) for the entire scripting.
