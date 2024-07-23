@@ -1,6 +1,6 @@
 <?php
 
-// Created & Packed by @yuvraj824, Join @m3u_lovers on Telegram
+// Created & Packed by @yuvraj824, Join @sharmamod01 on Telegram
 
 header('Access-Control-Allow-Origin: *');
 header('Access-Control-Allow-Methods: GET, OPTIONS');
